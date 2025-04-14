@@ -14,7 +14,7 @@ Certifique-se de ter os seguintes itens instalados em sua máquina:
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/diegotluz/supabase-selfhost
 cd docker
 ```
 
